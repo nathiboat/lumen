@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.30, created on 2016-11-13 21:51:30
+/* Smarty version 3.1.30, created on 2016-11-30 22:53:33
   from "C:\Users\Nathi\Desktop\workspace\leanspace\lumen\resources\views\home.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_5828e06239ab43_60987659',
+  'unifunc' => 'content_583f586dec8e97_18010901',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5828e06239ab43_60987659 (Smarty_Internal_Template $_smarty_tpl) {
+function content_583f586dec8e97_18010901 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 hi <?php echo $_smarty_tpl->tpl_vars['hi']->value;?>
 
